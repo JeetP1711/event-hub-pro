@@ -20,7 +20,7 @@ export function RegisterSection() {
             Ready to <span className="text-gradient">Innovate</span>?
           </h2>
           <p className="mx-auto mt-4 max-w-lg text-muted-foreground">
-            Form your team, prepare your innovation mindset, and register for Tech Nexa'26. Registration fee is just ₹50 per team.
+            Form your team, prepare your innovation mindset, and register for Tech Nexa'26. Registration fee is just ₹50 per team-member.
           </p>
 
           <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
