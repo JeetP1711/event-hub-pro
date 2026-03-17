@@ -6,11 +6,9 @@ const ruleGroups = [
     icon: UserCheck,
     title: "Team Composition",
     rules: [
-      "Every team must be led by a Third Year student",
-      "Must include students from 3rd, 2nd & 1st year",
-      "Maximum 3 Third Year students per team",
-      "Team size: minimum 4, maximum 6–7 members",
+      "Team size: minimum 5, maximum 8 members",
       "Every member must have a defined role",
+      "Every Team must have at least 1-2 female members",
     ],
   },
   {
@@ -31,7 +29,6 @@ const ruleGroups = [
     rules: [
       "Project must be 100% original — no clones",
       "No e-commerce, social media, or common app clones",
-      "Problem statement must be unique and innovative",
       "AI tools only for coding assistance, not core ideas",
       "All work must be done on campus during the event",
     ],
