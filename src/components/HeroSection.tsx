@@ -51,11 +51,11 @@ export function HeroSection() {
         >
           <div className="flex items-center gap-2">
             <Calendar className="h-4 w-4 text-primary" />
-            <span>12-Hour Hackathon</span>
+            <span>2-Day Hackathon</span>
           </div>
           <div className="flex items-center gap-2">
             <Users className="h-4 w-4 text-primary" />
-            <span>40–50 Teams</span>
+            <span>All Teams</span>
           </div>
           <div className="flex items-center gap-2">
             <MapPin className="h-4 w-4 text-primary" />
