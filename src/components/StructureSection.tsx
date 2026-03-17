@@ -10,7 +10,7 @@ const phases = [
       "Team leaders submit registration form with team details",
       "Briefly explain innovation approach & interest area",
       "Evaluation tests team composition & innovation potential",
-      "Registration fee: ₹50 per team",
+      "Registration fee: ₹50 per team-member",
     ],
   },
   {
