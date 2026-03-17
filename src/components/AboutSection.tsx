@@ -3,7 +3,7 @@ import { Lightbulb, Users, Code, Presentation } from "lucide-react";
 
 const highlights = [
   { icon: Lightbulb, title: "Innovation First", desc: "Original ideas only — no clones or pre-built projects allowed." },
-  { icon: Users, title: "Cross-Year Teams", desc: "Teams of 4–7 from 1st, 2nd & 3rd year students working together." },
+  { icon: Users, title: "Cross-Year Teams", desc: "Teams of 5-8 from 1st, 2nd & 3rd year students working together." },
   { icon: Code, title: "Build From Scratch", desc: "Problem statement revealed on Day 1. Design & code on-site." },
   { icon: Presentation, title: "Professional Pitch", desc: "Present your working prototype to a faculty evaluation panel." },
 ];
