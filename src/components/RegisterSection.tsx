@@ -25,7 +25,7 @@ export function RegisterSection() {
 
           <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
             <Button variant="hero" size="lg" asChild>
-              <a href="https://forms.google.com" target="_blank" rel="noopener noreferrer" className="gap-2">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSdK25KH0uCznyexGkjXmHhY7nv-0csJ0EjIwkyuN2FrDrhLtA/viewform?usp=dialog" target="_blank" rel="noopener noreferrer" className="gap-2">
                 <ExternalLink className="h-4 w-4" />
                 Register via Google Form
               </a>
