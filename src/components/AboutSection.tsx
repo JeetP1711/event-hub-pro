@@ -23,7 +23,7 @@ export function AboutSection() {
             What is <span className="text-gradient">Tech Nexa'26</span>?
           </h2>
           <p className="mt-6 text-base leading-relaxed text-muted-foreground">
-            Tech Nexa'26 is a two-day innovation-focused coding event organized by Third Year IT students. It challenges participants to develop unique and original software solutions to real-world problems. Unlike typical hackathons that allow prepared ideas, this event emphasizes authentic innovation — teams must brainstorm, design, and implement their project during the hackathon itself.
+            Tech Nexa'26 is a two-day innovation-focused coding event organized by Third Year students. It challenges participants to develop unique and original software solutions to real-world problems. Unlike typical hackathons that allow prepared ideas, this event emphasizes authentic innovation — teams must brainstorm, design, and implement their project during the hackathon itself.
           </p>
           <p className="mt-4 text-base leading-relaxed text-muted-foreground">
             AI tools may be used for implementation support, but the core idea and problem-solving approach must be completely original and team-generated.
