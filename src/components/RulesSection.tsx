@@ -37,7 +37,7 @@ const ruleGroups = [
     icon: AlertTriangle,
     title: "Important Notes",
     rules: [
-      "Registration fee: ₹50 per team",
+      "Registration fee: ₹50 per team-member",
       "Formal attire required for final presentation",
       "Teams must bring their own laptops",
       "Internet & Wi-Fi provided on campus",
