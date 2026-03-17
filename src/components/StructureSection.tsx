@@ -18,14 +18,13 @@ const phases = [
     phase: "Selection",
     title: "Team Shortlisting",
     items: [
-      "40–50 teams shortlisted based on evaluation",
-      "Selected teams proceed to the 2-day hackathon",
+      "Selected teams proceed to the 2nd-day hackathon",
     ],
   },
   {
     icon: Rocket,
     phase: "Phase 2",
-    title: "48-Hour Hackathon",
+    title: "2-Day Hackathon",
     items: [
       "Problem statement announced on Day 1",
       "Brainstorm, design & implement on-campus",
